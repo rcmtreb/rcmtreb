@@ -1,11 +1,20 @@
 ---
 ## 📊 Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rcmtreb&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcmtreb&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api?username=rcmtreb&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+      </td>
+      <td valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcmtreb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="140"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 ---
 
