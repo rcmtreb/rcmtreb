@@ -69,7 +69,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rcmtreby&color=blue&style=flat-square&label=Profile+Views" alt="Visitor Count"/>
-</p>
+<a href="https://visitorbadge.io/status?path=rcmtreb"><img src="https://api.visitorbadge.io/api/daily?path=rcmtreb&label=PROFILEVIEWS&countColor=%23263759&style=plastic&labelStyle=upper" /></a></p>
 
 ---
