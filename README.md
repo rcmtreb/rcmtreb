@@ -69,6 +69,6 @@
 </p>
 
 <p align="center">
-<a href="https://visitorbadge.io/status?path=rcmtreb"><img src="https://api.visitorbadge.io/api/daily?path=rcmtreb&label=PROFILEVIEWS&countColor=%23263759&style=plastic&labelStyle=upper" /></a></p>
+  <a href="https://visitorbadge.io/status?path=rcmtreb"><img src="https://api.visitorbadge.io/api/visitors?path=rcmtreb&label=profile%20views&countColor=%23263759&style=plastic" /></a></p>
 
 ---
