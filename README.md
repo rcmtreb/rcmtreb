@@ -1,5 +1,5 @@
 ---
-## 📊 Stats  
+##  Stats  
 
 <div align="center">
   <table>
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Currently Using & Learning  
+##  Currently Using & Learning  
 
 <p align="center">
   <!--COPY PASTE (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/TOOLNAME/TOOLNAME-original.svg" alt="TOOLNAME" width="40" height="40"/>
@@ -50,7 +50,7 @@
 
 ---
 
-## 🌐 Socials  
+##  Socials  
 
 <p align="center">
   <a href="mailto:rcmtrebla@gmail.com">
