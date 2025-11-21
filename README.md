@@ -62,7 +62,7 @@
   <a href="https://ph.linkedin.com/in/alberto-rili-3ab6902b8">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-   <a href="https://facebook.com/magnoalbert99">
+   <a href="https://facebook.com/magnoalberto99">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
