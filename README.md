@@ -33,6 +33,9 @@
 	<code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
 	<code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="MSSQL" title="MSSQL"/></code>
 	<code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></code>
+	<code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/.png" alt="Docker" title="Docker"/></code>
+	<code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/expo.png" alt="expo" title="expo"/></code>
+	<code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="rest" title="rest"/></code>
 </div>
 
 ---
